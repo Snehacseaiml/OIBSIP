@@ -34,7 +34,7 @@ Confusion Matrix
 Classification Report (Precision, Recall, F1-Score)
 Cross-validation (optional)
 🚀 How to Run
-Clone the repository:
+Clone the repository:https://github.com/Snehacseaiml/OIBSIP/blob/main/IRIS_FLOWER_CLASSIFICATION_TASK1.ipynb
 
 Install dependencies: pip install -r requirements.txt Launch the notebook: jupyter notebook IRIS_FLOWER_CLASSIFICATION_TASK1.ipynb
 
